@@ -54,6 +54,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## References
 
-* Laeven, L., Valencia, F., 2018. Systemic Banking Crises Revisited (Working Paper No. 18/206), IMF Working Papers. International Monetary Fund, Washington, DC. [Link](https://www.imf.org/en/Publications/WP/Issues/2018/09/14/Systemic-Banking-Crises-Revisited-46232)
+* Laeven, L., Valencia, F., 2018. Systemic Banking Crises Revisited (Working Paper No. 18/206), IMF Working Papers. International Monetary Fund, Washington, DC. [Link](https://www.imf.org/en/Publications/WP/Issues/2018/09/14/Systemic-Banking-Crises-Revisited-46232).
 * Laeven, L., Valencia, F. Systemic Banking Crises Database II. _IMF Economic Review_ (2020). [Link](https://doi.org/10.1057/s41308-020-00107-3).
 * Raciborski, R. (2008). kountry: A Stata Utility for Merging Cross-country Data from Multiple Sources. _The Stata Journal_, 8(3), 390–400. [Link](https://doi.org/10.1177/1536867X0800800305).
