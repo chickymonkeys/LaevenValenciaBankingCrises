@@ -34,7 +34,7 @@ The script needs an internet connection to check whether the command `kountry` i
 
 ### Installing and Running
 
-It is possible to just download the [BankingCrisisDB.do](./src/BankingCrisis.do) script in the folder [src](src) of the project, copy it in a folder and run it within Stata.
+It is possible to just download the [BankingCrisisDB.do](./src/BankingCrisisDB.do) script in the folder [src](src) of the project, copy it in a folder and run it within Stata.
 
 The script creates three different folders:
 
