@@ -34,7 +34,7 @@ The script needs an internet connection to check whether the command `kountry` i
 
 ### Installing and Running
 
-It is possible to just download the `BankingCrisis.do` script in the folder `src` of the project, copy it in a folder and run it within Stata.
+It is possible to just download the [BankingCrisisDB.do](src/BankingCrisis.do) script in the folder [src](src) of the project, copy it in a folder and run it within Stata.
 
 The script creates three different folders:
 
@@ -44,7 +44,7 @@ The script creates three different folders:
 
 ## Authors
 
-- **Alessandro Pizzigolotto** - _just the script_ - [Norwegian School of Economics](https://github.com/chickymonkeys)
+- **Alessandro Pizzigolotto** - _just the script_ - [Norwegian School of Economics (NHH)](https://github.com/chickymonkeys)
 
 See the list of the original authors in the references.
 
