@@ -49,7 +49,7 @@ capture ssc install kountry
 gl BASE_PATH = "~/Documents/Projects/LaevenValenciaBankingCrises"
 
 * directories and pointers definition
-local stubs  = "temp res log"
+local stubs  = "temp data log"
 local gnames = "DATA OUT LOG"
 local n: word count `gnames'
 tokenize "`gnames'"
