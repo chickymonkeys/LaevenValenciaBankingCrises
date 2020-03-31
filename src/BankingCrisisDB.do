@@ -242,8 +242,9 @@ u `cyears', clear
 preserve
 keep isocodes sysbank?
 reshape long sysbank, i(isocodes) j(fsysbank)
-drop if missing(sysbank)
+drop if missing(sysbank) & fsysbank > 1
 rename sysbank startyear
+replace fsysbank = 0 if missing(startyear)
 * merge crises years with spell and outcomes
 merge 1:1 isocodes startyear using `ceffect', nogen
 tempfile aggregate
