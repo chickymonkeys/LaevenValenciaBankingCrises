@@ -86,4 +86,4 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 * Laeven, L., Valencia, F., 2018. Systemic Banking Crises Revisited (Working Paper No. 18/206), IMF Working Papers. International Monetary Fund, Washington, DC. [Link](https://www.imf.org/en/Publications/WP/Issues/2018/09/14/Systemic-Banking-Crises-Revisited-46232).
 * Laeven, L., Valencia, F, 2020. Systemic Banking Crises Database II. _IMF Economic Review_. [Link](https://doi.org/10.1057/s41308-020-00107-3).
 * Raciborski, R. (2008). kountry: A Stata Utility for Merging Cross-country Data from Multiple Sources. _The Stata Journal_, 8(3), 390–400. [Link](https://doi.org/10.1177/1536867X0800800305).
-* Reinhart, C. M. and Rogoff. K. S., 2009. This Time is Different: Eight Centuries of Financial Folly. Princeton University Press, Princeton, NY.
+* Reinhart, C. M., Rogoff. K. S., 2009. This Time is Different: Eight Centuries of Financial Folly. Princeton University Press, Princeton, NY.
