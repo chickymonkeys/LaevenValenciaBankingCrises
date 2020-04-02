@@ -25,7 +25,9 @@ In the [BFFS Project](https://www.hbs.edu/behavioral-finance-and-financial-stabi
 1. Bank runs that lead to the closure, merging, or takeover by the public sector of one or more financial institutions; and, if there are no runs,
 2. The closure, merging, takeover, or large scale government assistance of an important financial institution (or group of institutions) that marks the start of a string of similar outcomes for other financial institutions.
 
-To our means, only a combination of systemic and banking crisis in the BFFS Banking Crisis Database is admissible to mark the event as a crisis. We keep [Laeven and Valencia (2020)](https://link.springer.com/article/10.1057/s41308-020-00107-3) as baseline, only adding missing crises and information about simultaneous inflation crises from the BFFS Database. In case of date conflict or overlapping, we prioritise Laeven and Valencia's information to the BFFS Project information. 
+To our means, only a combination of systemic and banking crisis in the BFFS Banking Crisis Database is admissible to mark the event as a crisis. We keep [Laeven and Valencia (2020)](https://link.springer.com/article/10.1057/s41308-020-00107-3) as baseline, only adding missing crises and information about simultaneous inflation crises from the BFFS Database. In case of date conflict or overlapping, we prioritise Laeven and Valencia's information to the BFFS Project information.
+
+Overall, there are no massive overlapping between the two datasets, and it is more the BFFS Project Dataset integrating the other with additional crises and correct ending years.
 
 ## Getting Started
 
