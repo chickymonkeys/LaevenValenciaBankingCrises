@@ -1,9 +1,8 @@
 ********************************************************************************
 *                                                                              *
-* Title:       Laeven and Valencia (2018) Banking Crises Database Acquisition  *
-* Author:      Alessandro Pizzigolotto (NHH)                                   *
-* Language:    Stata (sigh, sorry)                                             *
-* Version:     1.1                                                             *
+* Title    Laeven and Valencia (2018) Banking Crises Database Acquisition      *
+* @author  Alessandro Pizzigolotto (NHH)                                       *
+* @project BankingCrisisDB                                                     *
 *                                                                              *
 * Description: This script is able to download the original Laeven and         *
 *   Valencia Systemic Banking Crises Database from the IMF Original Article,   *
