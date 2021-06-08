@@ -285,7 +285,7 @@ foreach crisis in `listcrises' {
 
 * Harvard Kennedy School Direct Link
 import excel using ///
-    "https://www.hbs.edu/faculty/Documents/ChartData/MapCharts/20160923_global_crisis_data.xlsx", ///
+    "https://www.hbs.edu/behavioral-finance-and-financial-stability/Documents/ChartData/MapCharts/20160923_global_crisis_data.xlsx", ///
     clear
 
 * drop Excel header
