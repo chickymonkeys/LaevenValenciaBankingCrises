@@ -81,21 +81,10 @@ capture log using "${LOG_PATH}/BankingCrisisDB_${T_STRING}", text replace
 * Copy and Unzip Excel File from IMF Source                                    *
 ********************************************************************************
 
-* download from IMF Working Papers Website
+* download from IMF Economic Review Website
 copy ///
-    "https://www.imf.org/~/media/Files/Publications/WP/2018/datasets/wp18206.ashx" ///
-    "${DATA_PATH}/source.zip"
-
-* change to temp directory to unzip
-cd "${DATA_PATH}"
-unzipfile source.zip
-local files : dir "${DATA_PATH}" files "*.xlsx"
-if "`c(os)'" == "Windows" {
-    !ren `files' "source.xlsx"
-}
-else {
-    !mv -f `files' "source.xlsx"
-}
+    "https://static-content.springer.com/esm/art%3A10.1057%2Fs41308-020-00107-3/MediaObjects/41308_2020_107_MOESM1_ESM.xlsx" ///
+    "${DATA_PATH}/source.xlsx"
 
 * just because I feel safe in the workspace
 cd "${BASE_PATH}"
