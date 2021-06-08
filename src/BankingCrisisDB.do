@@ -62,12 +62,8 @@ local n: word count `gnames'
 tokenize "`gnames'"
 forvalues i = 1/`n' {
     gl ``i''_PATH = "${BASE_PATH}/`: word `i' of `stubs''"
-    * check if directory already exists
-    capture confirm file "${``i''_PATH}"
-    if _rc {
-        * make directory
-        mkdir "${``i''_PATH}", pub
-    }
+    * make directory
+    capture mkdir "${``i''_PATH}", pub
 }
 
 ********************************************************************************
